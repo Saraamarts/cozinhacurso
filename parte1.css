@@ -1,0 +1,31 @@
+footer {
+    background-color: rgb(237, 159, 159);
+    color: rgb(150, 39, 39);
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    color: brown;
+}
+
+.arredonda {
+    border-radius: 4px;
+}
+
+button {
+    color: rgb(0, 0, 0);
+    background-color: rgb(238, 148, 148);
+    box-shadow: ;
+    margin-top: 7%;
+
+}
